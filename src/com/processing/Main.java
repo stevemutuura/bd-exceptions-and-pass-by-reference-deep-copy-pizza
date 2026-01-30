@@ -1,6 +1,6 @@
 package com.processing;
 
-public class Main {
+public class  Main {
 
     public static void main(String[] args) {
         Topping[] myToppings = new Topping[5];
